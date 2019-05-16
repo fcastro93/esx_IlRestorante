@@ -2,4 +2,4 @@ INSERT INTO `essentialmode`.`jobs` (`name`, `label`) VALUES ('ilrestorante', 'Il
 INSERT INTO `essentialmode`.`job_grades` (`id`, `job_name`, `grade`, `name`, `label`, `salary`, `skin_male`, `skin_female`) VALUES ('7', 'ilrestorante', '0', 'security', 'Security', '1000', '{}', '{}');
 INSERT INTO `essentialmode`.`job_grades` (`id`, `job_name`, `grade`, `name`, `label`, `salary`, `skin_male`, `skin_female`) VALUES ('8', 'ilrestorante', '0', 'logistica', 'Logistica', '1000', '{}', '{}');
 INSERT INTO `essentialmode`.`job_grades` (`id`, `job_name`, `grade`, `name`, `label`, `salary`, `skin_male`, `skin_female`) VALUES ('9', 'ilrestorante', '2', 'cocinero', 'Cocinero', '1000', '{}', '{}');
-INSERT INTO `essentialmode`.`job_grades` (`id`, `job_name`, `grade`, `name`, `label`, `salary`, `skin_male`, `skin_female`) VALUES ('10', 'ilrestorante', '3', 'dueño', 'Dueñor', '1000', '{}', '{}');
+INSERT INTO `essentialmode`.`job_grades` (`id`, `job_name`, `grade`, `name`, `label`, `salary`, `skin_male`, `skin_female`) VALUES ('10', 'ilrestorante', '3', 'dueño', 'Dueño', '1000', '{}', '{}');
